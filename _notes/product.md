@@ -5,4 +5,4 @@ title: Product
 
 你好👋 我会在这里记录产品学习的心得与体会。
 
-- [[Construction of B-side Product Permission System]]
+- [[B端产品权限体系的构建]]
