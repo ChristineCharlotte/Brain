@@ -6,7 +6,7 @@ This is a second note with a poem with cats.
 
 Here's a link to a note that explains why it's important to [[move your body every day]].
 
-Here is a link to the note [[产品晨读]] [[泛微]].
+Here is a link to the note [[十点半聊产品]] [[泛微]].
 
 > I like my pillow, my fancy bed,
 >
